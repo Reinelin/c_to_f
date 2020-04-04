@@ -1,1 +1,1 @@
-"# c_to_f" 
+# transfer temperature from Celsius degree to Fahrenheit 
